@@ -64,6 +64,7 @@ int main(int argc, char **argv)
 			current_port++;
 		}
 	}
+	return 0;
 }
 
 /*
@@ -74,7 +75,7 @@ int main(int argc, char **argv)
 **
 */
 
-int skan(port)
+int skan(int port)
 {
 	int s;
 	int r;
