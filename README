@@ -1,0 +1,5 @@
+l ny a pas de timeout pour linstant... je le pusherais demain donc le deuxieme parrametre ne sert a rien (mais il faut quand meme le mettre desoler javais la fleme de lenlever)
+
+usage : ./blablbal begin_port end_port IP_Addr
+
+il va just scanner le premier port pas la plage desoler XD
